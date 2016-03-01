@@ -3,7 +3,7 @@ main: ShowInfo.ShowInfo
 version: "1.0.0"
 api: ["1.0.0"]
 author: "DeBe"
-website: "http://github.com/NukkitPlugin/ShowInfo"
+website: "https://github.com/NukkitPlugin/ShowInfo"
 
 permissions:
   showinfo.*:
