@@ -6,7 +6,7 @@ import ShowInfo.ShowInfo;
 import cn.nukkit.Player;
 import cn.nukkit.command.Command;
 import cn.nukkit.command.CommandSender;
-import cn.nukkit.event.TranslationContainer;
+import cn.nukkit.lang.TranslationContainer;
 import cn.nukkit.utils.TextFormat;
 
 public class ShowInfoCommand extends Command{
